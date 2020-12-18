@@ -15,9 +15,9 @@ entries:
       name: hshin-g
     name: forseti-security
     sources:
-    - https://github.com/forseti-security/forseti-security
+    - https://github.com/paul-r0ss/helm-charts
     - https://gcr.io/forseti-containers/forseti:v2.25.0
     urls:
-    - https://forseti-security-charts.storage.googleapis.com/release/forseti-security-2.2.0.tgz
+    - https://github.com/Pavloro/ubuntu-setup/raw/master/forseti-security-2.2.0.tgz
     version: 2.2.0
 generated: "2020-03-16T23:12:01.720553887Z"
